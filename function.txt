@@ -1,0 +1,14 @@
+Uma função é um bloco de código que realiza uma tarefa especifica 
+É também uma sequencia de comandos que executa alguma tarefa
+e que tem um nome.
+
+Permitem definir um bloco de código reutilizavel:
+def saudacao()
+    print("Bem-vindo")
+que pode ser executado muitas vezes dentro de um programa.
+É uma estrutura que agrupa partes do codigo, criando solucao
+modular para problema
+
+Serve para:
+Reutilização de codigo
+Modularizacao
